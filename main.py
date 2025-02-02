@@ -1,4 +1,5 @@
 # Rock Paper Scissors
+#start the game now
 
 import random 
 #rock wins over scissors
